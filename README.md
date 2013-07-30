@@ -1,7 +1,7 @@
 Pacman Game
 ================
 
-This game is an assignment of Object Oriented Software Design course, Ben Gurion University, July 2013. 
+This game was an assignment for Object Oriented Software Design course, Ben Gurion University, July 2013. 
 
 The game was built on Java & Swing.
 
