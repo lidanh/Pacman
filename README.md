@@ -6,3 +6,5 @@ This game is an assignment of Object Oriented Software Design course, Ben Gurion
 The game was built on Java & Swing.
 
 You can find the requirements file [here](http://www.cs.bgu.ac.il/~oosd132/wiki.files/ex4.pdf).
+
+![image](http://images.pictureshunt.com/pics/p/pacman_game-1973.gif)
