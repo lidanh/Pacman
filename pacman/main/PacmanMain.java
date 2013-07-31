@@ -6,7 +6,7 @@ import pacman.controllers.GameEngine;
 
 /**
  *  Pacman Game
- *  This game was an assignment of Object Oriented Software Design Course, Ben Gurion University, July 2013
+ *  This game was an assignment for Object Oriented Software Design course, Ben Gurion University, July 2013
  *  @author     Lidan Hifi
  *  @version    1.0
  */
