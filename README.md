@@ -9,4 +9,4 @@ The AI module finds the shortest path between any monster and pacman using A* al
 
 You can find the requirements file [here](http://www.cs.bgu.ac.il/~oosd132/wiki.files/ex4.pdf).
 
-![image](http://images.pictureshunt.com/pics/p/pacman_game-1973.gif)
+![image](http://media3.giphy.com/media/d9QiBcfzg64Io/giphy.gif)
